@@ -1,1 +1,3 @@
 *.html linguist-detectable=false
+src/*.cpp linguist-detectable=true
+src/*.hpp linguist-detectable=true
