@@ -1,0 +1,34 @@
+# ===================================================
+# .gitignore sur mesure - Projet Nanopore_Basecaller
+# ===================================================
+
+# 1. Environnements virtuels Python
+venv/
+.venv/
+basecaller_env/
+
+# 2. Caches Python et fichiers compilés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 3. Poids de modèles PyTorch (Fichiers lourds > 100 Mo)
+*.pt
+*.pth
+basecaller_model.pt
+basecaller_weights.pth
+basecaller_weights_v2.pth
+
+# 4. Données brutes et Datasets volumineux
+real_pod5/
+data_agri/
+data_arabidopsis/
+*.pod5
+
+# 5. Configuration Système & IDE
+.vscode/
+.idea/
+.streamlit/secrets.toml
+Thumbs.db
+.DS_Store

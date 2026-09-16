@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mission Epandage Biocontrol - Parcelle BAN_08</name>
+    <Placemark>
+      <name>Foyer TR4 Validé ADN</name>
+      <description>Diagnostic : Fusarium TR4 (41.32% d'infection). Epandage ciblé sur rayon 15m.</description>
+      <Point>
+        <coordinates>-6.3548,34.3122,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

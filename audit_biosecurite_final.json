@@ -1,0 +1,22 @@
+{
+    "report_id": "REP-TR4-20260915-1908",
+    "execution_date": "2026-09-15T19:08:19.809299",
+    "parcel": "BAN_08 (Gharb)",
+    "gps_target": [
+        34.3122,
+        -6.3548
+    ],
+    "initial_ndvi_stress": 0.32,
+    "dna_confirmation": {
+        "pathogen": "Fusarium oxysporum TR4 (NCBI AY220188.1)",
+        "infection_rate": "41.32%",
+        "confidence": "97.3%"
+    },
+    "drone_intervention": {
+        "status": "EXECUTED",
+        "treatment_radius_m": 15,
+        "product_applied": "Pseudomonas protegens (Biocontr\u00f4le)",
+        "volume_saved_percent": 92.0
+    },
+    "post_monitoring_scheduled": "2026-09-29"
+}

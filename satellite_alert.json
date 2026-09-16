@@ -1,0 +1,10 @@
+{
+    "parcel_id": "BAN_08 (Gharb)",
+    "latitude": 34.3122,
+    "longitude": -6.3548,
+    "ndvi_mean": 0.32,
+    "ndvi_baseline": 0.6,
+    "impacted_area_m2": 250,
+    "status": "ANOMALY_DETECTED",
+    "timestamp": "2026-09-16 17:09:51"
+}

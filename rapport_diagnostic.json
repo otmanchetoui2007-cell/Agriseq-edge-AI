@@ -1,0 +1,14 @@
+{
+    "timestamp": "2026-09-16 17:09:51",
+    "gps_location": {
+        "latitude": 34.3122,
+        "longitude": -6.3548
+    },
+    "total_reads_processed": 70215,
+    "tr4_aligned_reads": 29016,
+    "infection_rate_percent": 41.32,
+    "ai_confidence_score": 97.3,
+    "pathogen_confirmed": true,
+    "target_genome": "Fusarium oxysporum TR4 (NCBI AY220188.1)",
+    "status": "POSITIVE_CONFIRMED"
+}

@@ -1,0 +1,17 @@
+{
+    "nanopore": {
+        "read_id": "read_9684",
+        "raw_signal_length": 1024,
+        "simulated_sequence": "AACGCACACTCACACTCACACTCACACTCACACACGAATTATACCACACACAGATTTATATCG",
+        "mean_qscore": 17.5
+    },
+    "drone": {
+        "battery_percent": 98,
+        "gps_fix": 3,
+        "target_coordinates": [
+            34.3122,
+            -6.3548
+        ],
+        "status": "ARMED_AND_READY"
+    }
+}
